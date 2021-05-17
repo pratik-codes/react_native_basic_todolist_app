@@ -8,3 +8,5 @@
 - `npm install` to install dependencies.
 - `npm run android` on windows and `npm run ios` on mac.
 - Also you need to setup android studio and emulator to see the app in the emulator.
+### Screen 
+![Image](https://github.com/pratik-codes/react_native_basic_todolist_app/blob/master/mockup.png)
